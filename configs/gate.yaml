@@ -1,0 +1,12 @@
+default_confidence_threshold: 0.5
+escalate_on_structural_failure: true
+escalate_on_sample_disagreement: true
+
+per_class_confidence_threshold: {}
+  # code_gen: 0.6
+  # summarization: 0.4
+
+budget:
+  max_per_session: 50
+  max_per_task_class: {}
+    # code_gen: 20

@@ -1,0 +1,9 @@
+student:
+  name: Qwen2.5-7B-Instruct
+  repo: Qwen/Qwen2.5-7B-Instruct
+
+teacher:
+  name: Qwen2.5-72B-Instruct
+  repo: Qwen/Qwen2.5-72B-Instruct
+
+# same family by default -- see docs/design.md model selection section

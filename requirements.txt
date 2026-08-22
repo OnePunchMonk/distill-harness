@@ -1,0 +1,8 @@
+modal
+pyyaml
+transformers
+trl
+peft
+accelerate
+torch
+pytest
